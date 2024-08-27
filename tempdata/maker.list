@@ -1,0 +1,36 @@
+NKG7	NKcell
+GNLY	NKcell
+KLRD1	NKcell
+CD244	NKcell
+CD3D	Tcell
+CD3E	Tcell
+CD8A	Tcell
+CD4	Tcell
+CD8B	Tcell
+CD14	Myeloid
+CD68	Myeloid
+FCGR3A	Myeloid
+LYZ	Myeloid
+MARCO	Myeloid
+CD19	Bcell
+MS4A1	Bcell
+PAX5	Bcell
+CD79A	Bcell
+MZB1	plasma Bcell
+JCHAIN	plasma Bcell
+DERL3	plasma Bcell
+SDC1	plasma Bcell
+PECAM1	Endothelial
+CD34	Endothelial
+VWF	Endothelial
+EPCAM	Epithelial
+SFN	Epithelial
+KRT19	Epithelial
+KRT18	Epithelial
+CDH1	Epithelial
+ACTA2	Fibroblasts
+MCAM	Fibroblasts
+MYLK	Fibroblasts
+MYL9	Fibroblasts
+FAP	Fibroblasts
+THY1	Fibroblasts
